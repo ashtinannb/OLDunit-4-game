@@ -10,5 +10,6 @@ You win the game by matching your total score to your target number and you lose
 * jQuery
 
 
- https://ashtinannb.github.io/unit-4-game/
+ (https://ashtinannb.github.io/unit-4-game/)
  
+![Image of Crystal](https://github.com/ashtinannb/unit-4-game/blob/master/assets/images/4crys.png?raw=true)
